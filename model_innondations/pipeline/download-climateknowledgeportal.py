@@ -68,7 +68,9 @@ countries_name = ['Afghanistan', 'Albania', 'Algeria',
 		  'SriLanka', 'StKittsNevis', 'StLucia', 'StVincentGrenadines', 'Sudan', 'Suriname', 'swaziland', 'Sweden', 'Switzerland', 'Syria',
 		  'Tajikistan', 'TanzaniaUnitedRepublic', 'Thailand', 'TimorLeste', 'Togo', 'Tonga', 'TrinidadTobago', 'Tunisia', 'Turkey', 'Turkmenistan', 'Tuvalo',
 		  'Uganda', 'Ukraine', 'UnitedArabEmirates', 'UnitedKingdom', 'UnitedStates', 'Uruguay', 'Uzbekistan',
-		  'Vanuatu', 'Venzuela', 'Vietnam', 'Vietnam', 'Yemen', 'Zambia', 'Zimbabwe']
+		  'Vanuatu', 'Venzuela', 'Vietnam', 'Vietnam',
+		  'Yemen',
+		  'Zambia', 'Zimbabwe']
 
 variables = ['pr']
 
